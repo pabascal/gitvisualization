@@ -1,0 +1,2 @@
+Good info on go run main.go not finding all the files (functions scan and stats undefined)
+https://stackoverflow.com/questions/25171409/function-in-same-package-undefined
